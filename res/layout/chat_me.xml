@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@null" >
+	<Button 
+	    android:background="@color/blue"
+	    android:editable="false"
+	    android:text="我"
+	    android:id="@+id/btn_wo_info"
+	   android:layout_width="40dip"
+        android:layout_height="40dip"
+	    android:enabled="false"
+	    android:focusable="false"
+	    android:layout_alignParentRight="true"
+	    android:textColor="@color/black"
+	    android:layout_centerVertical="true"
+	    android:textSize="15sp"/>
+    <TextView
+        android:id="@+id/msg_me"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toLeftOf="@id/btn_wo_info"
+        android:background="@drawable/ptt_mymessage_bg_selector"
+        android:gravity="center"
+        android:paddingLeft="10dip"
+        android:paddingRight="15dip"
+        android:textColor="@color/chat_text"
+        android:textSize="16.0sp" />
+</RelativeLayout>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="transparent">#00000000</color>
+    <color name="cyan_blue">#ff569ECF</color>
+    <color name="login_dialog">#ff000000</color>
+    <color name="white">#ffFFFFFF</color>
+    <color name="black">#ff000000</color>
+    <color name="blue">#7abdf4</color>
+    <color name="red">#ffff0000</color>
+    <color name="gray">#ff909090</color>
+    <color name="gray_background">#ffF0EEEE</color>
+    <color name="gray_background1">#ffEEEEEE</color>
+    <color name="text_gray">#ff6A6A6A</color>
+    <color name="hint_gray">#ff929292</color>
+    <color name="gray30">#ff303030</color>
+    <color name="gray6d">#ff6d6d6d</color>
+    <color name="chat_nickname">#ff213161</color>
+    <color name="chat_date">#ff395d86</color>
+    <color name="login_text_gray">#ff818181</color>
+    <color name="register_text_gray">#ff4c4948</color>
+    <color name="tab_font_unselected">#ffffffff</color>
+    <color name="tab_font_selected">#ff6A6A6A</color>
+    <color name="tab_font_focus">#ff6A6A6A</color>
+    <color name="tab_font_press">#ff6A6A6A</color>
+    <color name="service_title_blue">#ff05418a</color>
+	<color name="about_compay">#717071</color> 	
+	<color name="list_item_text">#ffa0a0a0</color>
+	<color name="list_background">#fff0f0f0</color>
+	<color name="muti_create_text_bg">#fff9f9f9</color>
+	<color name="title_color">#FFF</color>
+    <drawable name="gray">#ff9D9D9D</drawable>
+    <drawable name="white">#ffFFFFFF</drawable>
+    <drawable name="black">#ff000000</drawable>
+    <color name="background">#b0000000</color>
+    <color name="shadow">#f1f1f3</color>
+    <color name="nick_black">#595757</color>
+    
+    <color name="sina_transparent">#00000000</color>
+    <color name="sina_text_num_gray">#333</color>
+    <color name="sina_dialog_title_blue">#9CCCF7</color>
+    <color name="notify_red">#d40012</color>
+    <color name="chat_text">#ff333333</color>
+
+</resources>
