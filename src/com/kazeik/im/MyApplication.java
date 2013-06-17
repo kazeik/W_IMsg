@@ -6,7 +6,8 @@ package com.kazeik.im;
 import android.app.Application;
 
 /**
- * @author SKS
+ * 全局application类
+ * @author kazeik
  * 
  */
 public class MyApplication extends Application {
